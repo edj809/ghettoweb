@@ -11,7 +11,7 @@ $dark: #0e0e0e;
 
 $danger: #cd0d0a;
 
-//#13191c
+$enable-negative-margins: true;
 
 @import "../node_modules/bootstrap/scss/bootstrap";
 
@@ -21,3 +21,10 @@ $danger: #cd0d0a;
     border-radius: 50%;
     display: inline-block;
   };
+
+  .dotline {
+    height: 5rem;
+    width: 5rem;
+    border-radius: 50%;
+    display: inline-block;
+  }
