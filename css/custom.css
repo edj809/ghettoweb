@@ -12801,4 +12801,9 @@ textarea.form-control-lg {
 
 .sizegrande {
   font-size: 4em;
+}
+
+.negativodiv {
+  margin-left: -4rem;
+  margin-right: -4rem;
 }/*# sourceMappingURL=custom.css.map */
